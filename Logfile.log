@@ -1,0 +1,577 @@
+2022-07-19 16:35:39,301, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:35:39,578, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:40:08,723, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:40:08,997, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:40:51,887, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:40:52,164, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:42:07,044, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:42:07,315, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:43:09,022, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:43:09,295, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:44:51,001, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:44:51,288, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:46:39,647, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:46:39,930, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:49:54,022, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:49:54,293, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:50:46,685, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:50:46,967, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:53:06,594, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:53:06,865, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:53:39,472, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:53:39,749, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:53:50,364, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:53:50,659, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:53:51,959, CRITICAL, test_dropDownValidation, clicking start here
+2022-07-19 16:54:24,798, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:54:25,075, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:57:40,571, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:57:40,846, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:57:42,095, CRITICAL, test_dropDownValidation, clicking start here
+2022-07-19 16:59:57,935, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 16:59:58,206, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 16:59:59,232, CRITICAL, test_dropDownValidation, clicking start here
+2022-07-19 17:08:21,164, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:08:21,446, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:08:57,898, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:08:58,169, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:11:12,672, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:11:12,944, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:13:12,015, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:13:12,292, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:19:29,852, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:19:30,156, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:19:33,625, INFO, test_dropDownValidation, email message verified
+2022-07-19 17:21:03,926, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:21:04,280, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:21:15,325, INFO, test_dropDownValidation, email message verified
+2022-07-19 17:25:14,805, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:25:15,079, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:26:35,486, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:26:35,758, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:26:38,883, INFO, test_dropDownValidation, email message verified
+2022-07-19 17:29:48,890, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:29:49,263, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:30:44,356, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:30:44,629, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:35:18,502, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:35:18,799, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:36:45,958, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:36:46,229, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:36:53,691, INFO, test_dropDownValidation, email message verified
+2022-07-19 17:38:35,851, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:38:36,123, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 17:39:47,051, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 17:39:47,340, INFO, test_dropDownValidation, mouse hovered
+2022-07-19 20:55:15,168, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-19 20:55:18,444, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 10:20:17,517, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 10:20:17,878, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 10:20:19,474, INFO, test_dropDownValidation, clicked link
+2022-07-20 10:20:22,944, INFO, test_dropDownValidation, email message verified
+2022-07-20 11:03:26,510, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 11:03:26,790, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 11:03:28,041, INFO, test_dropDownValidation, clicked link
+2022-07-20 11:03:30,288, INFO, test_dropDownValidation, email message verified
+2022-07-20 12:02:23,818, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 12:02:24,194, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 12:02:25,332, INFO, test_dropDownValidation, clicked link
+2022-07-20 12:02:27,464, INFO, test_dropDownValidation, email message verified
+2022-07-20 12:03:46,542, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 12:03:46,830, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 12:31:24,547, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 12:31:25,338, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 12:31:27,698, INFO, test_dropDownValidation, clicked link
+2022-07-20 12:31:32,626, INFO, test_dropDownValidation, email message verified
+2022-07-20 12:49:40,971, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 12:49:41,279, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 12:49:43,371, INFO, test_dropDownValidation, clicked link
+2022-07-20 12:49:48,980, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:04:43,311, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:04:43,670, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:04:46,702, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:04:51,209, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:11:39,163, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:11:39,448, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:12:42,176, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:12:42,547, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:12:43,593, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:12:45,960, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:13:46,554, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:13:46,854, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:13:50,504, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:20:10,473, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:20:10,767, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:20:47,678, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:20:47,975, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:24:20,609, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:26:20,816, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:28:50,451, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:36:53,962, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:36:57,326, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:36:57,525, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:43:08,109, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:43:11,385, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:43:11,572, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:44:41,098, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:44:41,453, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 13:44:44,454, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:44:44,609, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:45:52,516, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:45:52,883, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 13:45:55,885, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:45:57,078, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:45:59,376, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:46:46,760, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:46:47,081, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 13:46:50,085, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:46:51,837, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:46:54,061, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:47:37,384, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:47:37,692, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 13:47:40,695, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:47:42,399, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:47:44,871, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:48:17,770, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:48:18,169, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 13:48:21,172, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:48:22,337, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:48:25,095, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:48:54,153, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:48:54,487, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 13:48:57,489, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:48:58,665, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:49:00,679, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:49:44,066, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:49:44,366, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 13:49:47,369, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:49:49,747, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:49:51,883, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:51:32,895, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:51:33,274, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 13:51:36,277, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:51:37,639, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:51:40,207, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:52:35,199, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:52:35,628, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 13:52:38,629, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:52:39,885, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:52:40,067, INFO, test_dropDownValidation, 
+2022-07-20 13:52:42,231, INFO, test_dropDownValidation, email message verified
+2022-07-20 13:53:25,736, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:53:26,042, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 13:53:29,045, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:53:41,361, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 13:53:41,765, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 13:53:44,769, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 13:53:47,813, INFO, test_dropDownValidation, clicked link
+2022-07-20 13:53:48,005, INFO, test_dropDownValidation, janani
+2022-07-20 13:53:50,174, INFO, test_dropDownValidation, email message verified
+2022-07-20 14:10:35,059, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 14:10:35,401, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 14:10:35,401, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 14:11:04,423, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 14:11:04,776, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 14:11:07,777, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 14:11:08,936, INFO, test_dropDownValidation, clicked link
+2022-07-20 14:11:09,123, INFO, test_dropDownValidation, janani
+2022-07-20 14:11:11,089, INFO, test_dropDownValidation, email message verified
+2022-07-20 14:11:53,662, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 14:11:53,967, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 14:11:54,968, INFO, test_dropDownValidation, mouse hovered
+2022-07-20 14:11:57,863, INFO, test_dropDownValidation, clicked link
+2022-07-20 14:11:58,111, INFO, test_dropDownValidation, janani
+2022-07-20 14:12:00,331, INFO, test_dropDownValidation, email message verified
+2022-07-20 14:16:45,973, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 14:16:46,300, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 14:29:28,904, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 14:29:29,282, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 14:31:03,851, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 14:31:04,197, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 14:31:05,657, INFO, test_dropDownValidation, clicked link
+2022-07-20 14:31:05,949, INFO, test_dropDownValidation, janani
+2022-07-20 14:31:08,360, INFO, test_dropDownValidation, email message verified
+2022-07-20 14:38:07,193, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-20 14:38:07,641, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-20 14:38:08,938, INFO, test_dropDownValidation, clicked link
+2022-07-20 14:38:09,196, INFO, test_dropDownValidation, janani
+2022-07-20 14:38:11,706, INFO, test_dropDownValidation, email message verified
+2022-07-21 12:55:58,680, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 12:55:59,052, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 12:56:00,802, INFO, test_dropDownValidation, clicked link
+2022-07-21 12:56:01,777, INFO, test_dropDownValidation, janani
+2022-07-21 12:56:04,151, INFO, test_dropDownValidation, email message verified
+2022-07-21 12:56:04,176, INFO, test_dropDownValidation, 
+2022-07-21 12:56:59,660, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 12:57:00,240, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 12:57:01,262, INFO, test_dropDownValidation, clicked link
+2022-07-21 12:57:02,303, INFO, test_dropDownValidation, janani
+2022-07-21 12:57:04,086, INFO, test_dropDownValidation, email message verified
+2022-07-21 12:57:04,111, INFO, test_dropDownValidation, 
+2022-07-21 12:58:58,086, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 12:58:58,508, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 13:04:02,449, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 13:04:02,863, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 13:04:04,485, INFO, test_dropDownValidation, clicked link
+2022-07-21 13:04:04,843, INFO, test_dropDownValidation, janani
+2022-07-21 13:04:07,520, INFO, test_dropDownValidation, email message verified
+2022-07-21 13:04:52,303, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 13:04:52,647, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 13:04:53,845, INFO, test_dropDownValidation, clicked link
+2022-07-21 13:04:54,022, INFO, test_dropDownValidation, janani
+2022-07-21 13:04:57,475, INFO, test_dropDownValidation, email message verified
+2022-07-21 14:29:26,584, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 14:29:26,901, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 14:29:27,907, INFO, test_dropDownValidation, clicked link
+2022-07-21 14:29:28,113, INFO, test_dropDownValidation, janani
+2022-07-21 14:29:29,988, INFO, test_dropDownValidation, email message verified
+2022-07-21 14:29:43,536, INFO, test_dropDownValidation, 
+2022-07-21 14:40:53,605, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 14:40:53,962, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 14:58:34,279, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 14:58:34,871, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 14:58:36,396, INFO, test_dropDownValidation, clicked link
+2022-07-21 14:58:36,618, INFO, test_dropDownValidation, janani
+2022-07-21 14:58:38,962, INFO, test_dropDownValidation, email message verified
+2022-07-21 15:07:17,333, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 15:07:17,671, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 15:07:19,033, INFO, test_dropDownValidation, clicked link
+2022-07-21 15:07:19,246, INFO, test_dropDownValidation, janani
+2022-07-21 15:07:21,597, INFO, test_dropDownValidation, janani
+2022-07-21 15:08:10,655, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 15:08:11,082, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 15:08:12,806, INFO, test_dropDownValidation, clicked link
+2022-07-21 15:08:13,048, INFO, test_dropDownValidation, janani
+2022-07-21 15:08:16,084, INFO, test_dropDownValidation, janani
+2022-07-21 15:09:35,973, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 15:09:36,404, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 15:09:37,853, INFO, test_dropDownValidation, clicked link
+2022-07-21 15:09:38,156, INFO, test_dropDownValidation, janani
+2022-07-21 15:29:19,378, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 15:29:19,834, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 17:07:23,348, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 17:07:23,738, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 17:07:24,976, INFO, test_dropDownValidation, clicked link
+2022-07-21 17:11:56,562, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 17:11:56,906, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 17:11:58,171, INFO, test_dropDownValidation, clicked link
+2022-07-21 18:00:11,633, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:00:11,962, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:02:46,092, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:02:46,403, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:03:12,931, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:03:13,256, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:04:23,165, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:04:23,465, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:04:24,470, INFO, test_dropDownValidation, clicked link
+2022-07-21 18:15:57,786, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:16:42,440, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:16:42,744, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:18:27,114, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:18:27,417, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:21:43,504, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:21:43,882, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:21:45,090, INFO, test_dropDownValidation, clicked link
+2022-07-21 18:24:33,063, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:24:33,428, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:24:56,352, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:24:56,706, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:25:53,871, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:25:54,288, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:30:07,332, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:30:07,827, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:30:10,779, INFO, test_dropDownValidation, clicked link
+2022-07-21 18:30:11,567, INFO, test_dropDownValidation, janani
+2022-07-21 18:31:02,470, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-21 18:31:03,300, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-21 18:31:05,831, INFO, test_dropDownValidation, clicked link
+2022-07-21 18:31:06,724, INFO, test_dropDownValidation, janani
+2022-07-23 14:58:14,050, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 14:58:14,764, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 14:58:17,435, INFO, test_dropDownValidation, clicked link
+2022-07-23 14:58:17,739, INFO, test_dropDownValidation, janani
+2022-07-23 15:04:47,818, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:04:48,174, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:04:49,732, INFO, test_dropDownValidation, clicked link
+2022-07-23 15:04:50,001, INFO, test_dropDownValidation, janani
+2022-07-23 15:05:23,124, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:05:23,436, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:06:06,989, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:06:07,339, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:07:19,741, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:07:20,046, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:07:21,470, INFO, test_dropDownValidation, janani
+2022-07-23 15:08:24,979, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:08:25,281, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:12:04,426, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:12:04,739, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:13:07,520, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:13:07,938, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:13:09,301, INFO, test_dropDownValidation, clicked link
+2022-07-23 15:13:09,490, INFO, test_dropDownValidation, janani
+2022-07-23 15:17:27,493, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:17:27,817, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:17:41,043, INFO, test_dropDownValidation, clicked link
+2022-07-23 15:17:41,250, INFO, test_dropDownValidation, janani
+2022-07-23 15:17:43,598, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-23 15:20:10,652, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:20:10,961, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:21:03,129, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:21:06,566, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:21:08,748, INFO, test_dropDownValidation, clicked link
+2022-07-23 15:21:08,952, INFO, test_dropDownValidation, janani
+2022-07-23 15:21:10,931, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-23 15:23:45,987, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:23:49,407, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:25:22,366, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:25:22,695, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:25:28,489, INFO, test_dropDownValidation, clicked link
+2022-07-23 15:25:28,708, INFO, test_dropDownValidation, janani
+2022-07-23 15:25:30,714, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-23 15:27:14,877, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:27:15,182, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:28:50,504, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:30:22,003, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:30:25,363, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:33:51,777, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:33:55,133, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:38:42,593, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:38:46,062, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:39:47,304, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:39:50,654, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:40:20,030, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:40:23,362, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:48:50,773, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:48:54,121, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:50:03,071, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:50:06,448, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:50:08,025, INFO, test_dropDownValidation, clicked link
+2022-07-23 15:50:08,339, INFO, test_dropDownValidation, janani
+2022-07-23 15:50:10,535, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-23 15:50:47,855, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:50:51,225, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:50:52,442, INFO, test_dropDownValidation, clicked link
+2022-07-23 15:50:52,638, INFO, test_dropDownValidation, janani
+2022-07-23 15:50:54,736, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-23 15:51:44,143, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:51:47,451, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:52:08,887, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:52:12,247, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:52:15,664, INFO, test_dropDownValidation, clicked link
+2022-07-23 15:52:15,837, INFO, test_dropDownValidation, janani
+2022-07-23 15:52:18,031, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-23 15:53:36,945, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:53:40,270, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:54:40,968, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:54:44,321, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:55:42,366, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:55:45,710, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:55:46,927, INFO, test_dropDownValidation, clicked link
+2022-07-23 15:55:47,131, INFO, test_dropDownValidation, janani
+2022-07-23 15:55:49,051, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-23 15:57:50,680, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-23 15:57:54,026, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-23 15:57:55,095, INFO, test_dropDownValidation, clicked link
+2022-07-23 15:57:55,411, INFO, test_dropDownValidation, janani
+2022-07-23 15:57:57,100, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-25 11:03:49,253, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-25 11:03:52,642, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-25 11:03:53,999, INFO, test_dropDownValidation, clicked link
+2022-07-25 11:03:54,692, INFO, test_dropDownValidation, janani
+2022-07-25 11:03:56,674, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-25 11:06:46,223, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-25 11:06:49,583, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-25 11:06:50,497, INFO, test_dropDownValidation, clicked link
+2022-07-25 11:06:50,683, INFO, test_dropDownValidation, janani
+2022-07-25 11:06:52,431, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-25 11:07:54,006, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-25 11:07:57,355, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-25 11:07:58,968, INFO, test_dropDownValidation, clicked link
+2022-07-25 11:07:59,180, INFO, test_dropDownValidation, janani
+2022-07-25 11:08:01,012, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-25 11:25:08,139, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-25 11:25:11,449, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-25 11:25:13,177, INFO, test_dropDownValidation, clicked link
+2022-07-25 11:25:14,118, INFO, test_dropDownValidation, janani
+2022-07-25 11:25:16,507, INFO, test_dropDownValidation, Your provided Email 123@123.com has already been used. Please use another Email address.
+2022-07-25 11:46:23,616, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-25 11:46:26,969, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-25 11:46:40,145, INFO, test_dropDownValidation, clicked link
+2022-07-25 11:46:48,965, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-25 11:46:52,404, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-25 11:47:42,451, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-25 11:47:45,802, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-25 11:47:46,789, INFO, test_dropDownValidation, clicked link
+2022-07-25 11:47:46,978, INFO, test_dropDownValidation, janani
+2022-07-25 12:01:58,918, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-25 12:02:02,298, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-25 12:05:23,719, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-25 12:05:27,025, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-25 12:05:28,150, INFO, test_dropDownValidation, clicked link
+2022-07-25 12:05:28,347, INFO, test_dropDownValidation, janani
+2022-07-25 12:06:22,928, INFO, test_dropDownValidation, amazon devices is selected
+2022-07-25 12:06:26,262, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-07-25 12:06:27,269, INFO, test_dropDownValidation, clicked link
+2022-07-25 12:06:27,451, INFO, test_dropDownValidation, janani
+2022-08-01 19:43:36,433, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-01 19:43:39,762, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-01 19:44:26,768, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-01 19:44:30,153, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-01 19:45:26,893, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-01 19:45:27,211, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-01 19:45:28,761, INFO, test_dropDownValidation, clicked link
+2022-08-01 19:45:29,061, INFO, test_dropDownValidation, janani
+2022-08-02 11:53:59,829, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-02 11:54:00,188, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-02 11:54:02,239, INFO, test_dropDownValidation, clicked link
+2022-08-02 11:54:02,998, INFO, test_dropDownValidation, janani
+2022-08-02 12:08:38,613, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-02 12:08:38,999, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-02 12:08:40,177, INFO, test_dropDownValidation, clicked link
+2022-08-02 12:08:40,522, INFO, test_dropDownValidation, janani
+2022-08-02 12:13:14,027, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-02 12:13:14,352, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-02 12:13:17,663, INFO, test_dropDownValidation, clicked link
+2022-08-02 12:13:18,246, INFO, test_dropDownValidation, janani
+2022-08-02 12:14:21,919, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-02 12:14:22,264, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-02 12:14:26,424, INFO, test_dropDownValidation, clicked link
+2022-08-02 12:14:27,100, INFO, test_dropDownValidation, janani
+2022-08-02 14:43:23,383, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-02 14:43:23,689, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-02 14:43:25,393, INFO, test_dropDownValidation, clicked link
+2022-08-02 14:43:25,644, INFO, test_dropDownValidation, janani
+2022-08-02 15:07:27,650, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-02 15:07:27,964, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-02 15:09:25,433, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-02 15:09:25,915, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-02 15:09:28,204, INFO, test_dropDownValidation, clicked link
+2022-08-02 15:09:28,509, INFO, test_dropDownValidation, janani
+2022-08-02 15:10:17,095, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-02 15:10:17,692, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-02 15:10:19,549, INFO, test_dropDownValidation, clicked link
+2022-08-02 15:10:19,744, INFO, test_dropDownValidation, janani
+2022-08-02 17:14:40,339, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-02 17:14:40,644, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-02 17:14:42,215, INFO, test_dropDownValidation, clicked link
+2022-08-02 17:14:42,983, INFO, test_dropDownValidation, janani
+2022-08-03 14:38:43,700, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-03 14:38:44,013, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-03 14:38:45,993, INFO, test_dropDownValidation, clicked link
+2022-08-03 14:38:46,646, INFO, test_dropDownValidation, janani
+2022-08-03 15:22:28,792, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-03 15:22:29,407, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-03 15:22:31,500, INFO, test_dropDownValidation, clicked link
+2022-08-03 17:33:18,861, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-03 17:33:19,204, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-03 17:33:48,427, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-03 17:33:48,854, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-03 17:33:50,829, INFO, test_dropDownValidation, clicked link
+2022-08-05 14:01:28,293, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-05 14:01:28,596, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-05 14:01:57,118, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-05 14:02:32,808, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-05 14:03:46,074, INFO, test_dropDownValidation, amazon devices is selected
+2022-08-05 14:03:46,391, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-05 14:03:48,603, INFO, test_dropDownValidation, clicked link
+2022-08-05 14:03:49,373, INFO, test_dropDownValidation, janani
